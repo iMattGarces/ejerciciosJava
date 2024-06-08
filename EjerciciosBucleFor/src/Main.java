@@ -19,6 +19,7 @@ public class Main {
             else{
                     System.out.println("Soy menor");
                 }
+            System.out.println("hola");
         }
     }
 
